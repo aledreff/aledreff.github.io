@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'VG5000';
+   src: url(https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.eot),
+        url(https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.woff2) format("woff2"), 
+        url(https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.woff) format("woff"), 
+        url(https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.otf) format("opentype");
+  }
+
+  h1 {
+    font-size: 40px;
+    font-family: 'VG5000';
+    text-align: center;
+  }
