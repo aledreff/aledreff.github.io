@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VG5000';
+   src: url(https://aledreff.github.io/styles/VG5000/VG5000-Regular.otf) format("opentype"), 
+          url(https://aledreff.github.io/styles/VG5000/VG5000-Regular_web.eot),     
+         url(https://aledreff.github.io/styles/VG5000/VG5000-Regular_web.woff2) format("woff2"), 
+         url(https://aledreff.github.io/styles/VG5000/VG5000-Regular_web.woff) format("woff"), 
+          url(https://aledreff.github.io/styles/VG5000/VG5000-Regular_web.otf) format("opentype");
+    
+  }
