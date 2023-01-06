@@ -8,21 +8,21 @@
 
   h1 {
     font-size: 40px;
-    font-family: 'VG5000';
+    font-family: 'VG5000', Arial, sans-serif;
     text-align: center;
   }
 
   h2 {
     font-size: 22px;
-    font-family: 'VG5000';
+    font-family: 'VG5000', Arial, sans-serif;
   }
 
   h3 {
     font-size: 18px;
-    font-family: 'VG5000';
+    font-family: 'VG5000', Arial, sans-serif;
   }
 
   p {
     font-size: 14px;
-    font-family: 'VG5000';
+    font-family: 'VG5000', Arial, sans-serif;
   }
