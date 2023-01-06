@@ -1,10 +1,9 @@
-/*
 @font-face {
-    font-family: 'VG5000';
-   src: url(https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.eot),
-        url(https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.woff2) format("woff2"), 
-        url(https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.woff) format("woff"), 
-        url(https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.otf) format("opentype");
+    font-family: 'VG5000', sans-serif ;
+   src: url("https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.eot"),
+        url("https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.woff2") format("woff2"), 
+        url("https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.woff") format("woff"), 
+        url("https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.otf") format("opentype");
   }
 
   h1 {
@@ -12,8 +11,18 @@
     font-family: 'VG5000';
     text-align: center;
   }
-*/
+
+  h2 {
+    font-size: 22px;
+    font-family: 'VG5000';
+  }
+
+  h3 {
+    font-size: 18px;
+    font-family: 'VG5000';
+  }
 
   p {
-    font-size: 12px;
+    font-size: 14px;
+    font-family: 'VG5000';
   }
