@@ -14,6 +14,20 @@
       margin-right:auto;
       
   }
+  
+  blockquote p {
+    font-size: 16px;
+    font-family: 'VG5000', Arial, sans-serif;
+    width:60%;
+  }
+  
+  blockquote p::before {
+    content: '\201C';
+  }
+  
+  blockquote p::after {
+    content: '\201D';
+  }
 
   a:link{
     color: MediumPurple;
@@ -54,3 +68,12 @@
     font-size: 12px;
     font-family: 'VG5000', Arial, sans-serif;    
   }
+
+
+  /*
+  GB palette : 
+  071821
+  306850
+  86c06c
+  e0f8cf
+  */
