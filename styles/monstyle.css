@@ -29,6 +29,11 @@
     content: '\201D';
   }
 
+  blockquote.green {
+    color: #306850;
+    text-shadow : #86c06c 0px 1px 2px;
+  }
+
   a:link{
     color: MediumPurple;
     text-shadow : Thistle 0px 1px 4px;
@@ -42,6 +47,21 @@
   a:hover{
     color: BlueViolet;
     text-shadow : Thistle 0px 5px 10px;
+  }
+
+  a:link.green{
+    color: #306850;
+    text-shadow : #86c06c 0px 1px 4px;
+  }
+  
+  a:visited.green{
+    color: #306850;
+    text-shadow : #86c06c 0px 1px 4px;
+  }
+  
+  a:hover.green{
+    color: #071821;
+    text-shadow : #306850 0px 5px 10px;
   }
   
   h1 {
@@ -72,8 +92,8 @@
 
   /*
   GB palette : 
-  071821
-  306850
-  86c06c
-  e0f8cf
+  #071821
+  #306850
+  #86c06c
+  #e0f8cf
   */
