@@ -1,16 +1,13 @@
 @font-face {
     font-family: 'VG5000', sans-serif ;
-   src: url("https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.eot"),
-        url("https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.woff2") format("woff2"), 
-        url("https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.woff") format("woff"), 
-        url("https://github.com/aledreff/aledreff.github.io/tree/main/styles/VG5000/VG5000-Regular_web.otf") format("opentype");
+    src: url(styles/VG5000/VG5000-Regular_web.woff2); 
   }
 
   body
   {	
       width:80%;
-      max-width: 900px;
-      margin-left:5%;
+      max-width: 800px;
+      margin-left:auto;
       margin-right:auto;
       
   }
@@ -63,24 +60,30 @@
     color: #071821;
     text-shadow : #306850 0px 5px 10px;
   }
+
+  summary {
+    font-size: 20px;
+    font-family: 'VG5000', Arial, sans-serif;
+    text-decoration: underline;
+  }
   
   h1 {
-    font-size: 22px;
+    font-size: 24px;
     font-family: 'VG5000', Arial, sans-serif;
   }
 
   h2 {
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'VG5000', Arial, sans-serif;
   }
 
   h3 {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'VG5000', Arial, sans-serif;
   }
 
   p {
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'VG5000', Arial, sans-serif;
   }
 
